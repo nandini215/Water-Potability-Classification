@@ -1,1 +1,1 @@
-# Water-Potability-Classification
+# Water-Potability
